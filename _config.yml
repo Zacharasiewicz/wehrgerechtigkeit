@@ -24,8 +24,8 @@ description              : "Wehrpflicht für Frauen"
 url                      : https://wehrgerechtigkeit.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/2024-10-05-DEMO.svg
-logo                     : /assets/images/2024-10-05-DEMO.svg
+teaser                   : /assets/images/wehrpflicht.svg
+logo                     : /assets/images/wehrpflicht.svg
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
